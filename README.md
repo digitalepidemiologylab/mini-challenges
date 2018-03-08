@@ -5,9 +5,9 @@
 ## Machine Learning
 * ![](https://img.shields.io/badge/difficulty-easy-brightgreen.svg) Training a deep convolutional neural network to classify diseased plant leaves
   * **Skills Required :** `python`, `pytorch` / `tensorflow` / `caffe`
+* ![](https://img.shields.io/badge/difficulty-easy-brightgreen.svg) Write a custom PyTorch dataloader for plantvillage dataset
+  * **Skills Required :** `python`, `pytorch`
 * ![](https://img.shields.io/badge/difficulty-hard-red.svg) Using Generative Adversarial Networks for generating samples from the mini-plantvillage dataset
-  * **Skills Required :** `python`, `pytorch` / `tensorflow`
-* ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Implement `Grad-Cam` for the plantvillage-dataset.
   * **Skills Required :** `python`, `pytorch` / `tensorflow`
 * ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Implement Artistic Style Transfer in PyTorch.
   * **Skills Required :** `python`, `pytorch`
