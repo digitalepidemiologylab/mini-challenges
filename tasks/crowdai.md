@@ -1,4 +1,7 @@
 # crowdai-webapp-contribution
+![](https://img.shields.io/badge/difficulty-medium-yellow.svg)
+**Skills Required :** `ruby`, `rails`
+
 ![CrowdAI-Logo](https://github.com/crowdAI/crowdai/raw/master/app/assets/images/misc/crowdai-logo-smile.svg?sanitize=true)
 
 [crowdAI](https://crowdai.org) is an open-source platform for hosting machine learning challenges in open-science. One of the core components
