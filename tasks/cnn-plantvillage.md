@@ -1,4 +1,6 @@
 # cnn-plantvillage
+![](https://img.shields.io/badge/difficulty-easy-brightgreen.svg)   
+**Skills Required :** `python`, `pytorch` / `tensorflow` / `caffe`
 
 ![plantvillage](images/plantvillage.jpg)
 

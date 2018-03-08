@@ -1,5 +1,5 @@
 # pytorch-dataloader
-![](https://img.shields.io/badge/difficulty-easy-brightgreen.svg)
+![](https://img.shields.io/badge/difficulty-easy-brightgreen.svg)   
 **Skills Required :** `python`, `pytorch`
 
 ![pytorch](images/pytorch.jpeg)
