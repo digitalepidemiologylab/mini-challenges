@@ -3,7 +3,7 @@
 # Tasks
 
 ## Machine Learning
-* Training a deep convolutional neural network to classify diseased plant leaves
+* ![](https://img.shields.io/badge/difficulty-easy-brightgreen.svg) Training a deep convolutional neural network to classify diseased plant leaves
 * Using Generative Adversarial Networks for generating samples from the mini-plantvillage dataset
 
 ## Software Development
