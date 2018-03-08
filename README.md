@@ -12,6 +12,9 @@
 * ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Visualisation of user interactions in a crowdAI challenge using Plotly
   * **Skills Required :** `javascript`, `plotly`, `d3.js (optional)`
 
+## Software Development
+* ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Contribute to crowdAI rails web-app
+  * **Skills Required :** `ruby`, `rails`
 
 # Author
 Sharada Mohanty <sharada.mohanty@epfl.ch>
