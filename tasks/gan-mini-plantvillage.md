@@ -1,5 +1,6 @@
 # gan-plantvillage
-
+![](https://img.shields.io/badge/difficulty-hard-red.svg)   
+**Skills Required :** `python`, `pytorch` / `tensorflow`
 ![gan-animation](images/gan.gif)
 
 This task requires you to train Generative Adversarial Networks to generate images similar to the plant village dataset.
