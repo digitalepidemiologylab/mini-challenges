@@ -1,5 +1,5 @@
 # crowdai-webapp-contribution
-![](https://img.shields.io/badge/difficulty-medium-yellow.svg)
+![](https://img.shields.io/badge/difficulty-medium-yellow.svg)   
 **Skills Required :** `ruby`, `rails`
 
 ![CrowdAI-Logo](https://github.com/crowdAI/crowdai/raw/master/app/assets/images/misc/crowdai-logo-smile.svg?sanitize=true)
