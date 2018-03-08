@@ -17,7 +17,7 @@
   * **Skills Required :** `javascript`, `plotly`, `d3.js (optional)`
 
 ## Software Development
-* ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Contribute to crowdAI rails web-app
+* ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) [Contribute to crowdAI rails web-app](tasks/crowdai.md)
   * **Skills Required :** `ruby`, `rails`
 
 # Author
