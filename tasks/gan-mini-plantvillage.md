@@ -13,6 +13,7 @@ Then on this minified version of the plantvillage dataset, you are supposed to d
 To help you quickly get started on Generative Adversarial Networks, here are some resources :
 
 * https://deeplearning4j.org/generative-adversarial-network
+* https://wiseodd.github.io/techblog/2017/01/20/gan-pytorch/
 * https://github.com/znxlwm/pytorch-generative-model-collections
 
 As a solution, you will have to create a publicly accessible repository, with an implementation and description of your approach.
