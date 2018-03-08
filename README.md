@@ -7,6 +7,8 @@
   * **Skills Required :** `python`, `pytorch` / `tensorflow` / `caffe`
 * ![](https://img.shields.io/badge/difficulty-hard-red.svg) Using Generative Adversarial Networks for generating samples from the mini-plantvillage dataset
   * **Skills Required :** `python`, `pytorch` / `tensorflow`
+* ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Implement `Grad-Cam` for the plantvillage-dataset.
+  * **Skills Required :** `python`, `pytorch` / `tensorflow`
 
 ## Data Visualisation
 * ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Visualisation of user interactions in a crowdAI challenge using Plotly
