@@ -8,7 +8,6 @@ and you can find numerous resources on getting started easily on Image Classific
 
 Some tutorials on training Deep Neural Networks on this dataset are available at :
 * https://www.crowdai.org/articles/torch-tutorial-for-plantvillage-challenge
-*
 * https://www.crowdai.org/articles/plantvillage-image-classification-tutorial
 
 You can download the dataset from the [crowdAI PlantVillage Disease Classification Challenge](https://www.crowdai.org/challenges/plantvillage-disease-classification-challenge).
