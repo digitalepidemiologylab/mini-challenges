@@ -3,7 +3,7 @@
 # Tasks
 
 ## Machine Learning
-* ![](https://img.shields.io/badge/difficulty-easy-brightgreen.svg) Training a deep convolutional neural network to classify diseased plant leaves
+* ![](https://img.shields.io/badge/difficulty-easy-brightgreen.svg) [Training a deep convolutional neural network to classify diseased plant leaves](tasks/cnn-plantvillage.md)
   * **Skills Required :** `python`, `pytorch` / `tensorflow` / `caffe`
 * ![](https://img.shields.io/badge/difficulty-easy-brightgreen.svg) Write a custom PyTorch dataloader for plantvillage dataset
   * **Skills Required :** `python`, `pytorch`
