@@ -1,4 +1,6 @@
 # neural style transfer
+![](https://img.shields.io/badge/difficulty-medium-yellow.svg)   
+**Skills Required :** `python`, `pytorch`   
 
 ![https://cuicaihao.files.wordpress.com/2017/06/feature-figure.jpg?w=1200](https://cuicaihao.files.wordpress.com/2017/06/feature-figure.jpg?w=1200)
 
