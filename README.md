@@ -4,10 +4,10 @@
 
 ## Machine Learning
 * ![](https://img.shields.io/badge/difficulty-easy-brightgreen.svg) Training a deep convolutional neural network to classify diseased plant leaves
-* Using Generative Adversarial Networks for generating samples from the mini-plantvillage dataset
+* ![](https://img.shields.io/badge/difficulty-hard-red.svg) Using Generative Adversarial Networks for generating samples from the mini-plantvillage dataset
 
 ## Software Development
-* Visualisation of user interactions in a crowdAI challenge using Plotly
+* ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Visualisation of user interactions in a crowdAI challenge using Plotly
 
 
 # Author
