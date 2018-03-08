@@ -34,5 +34,10 @@ for images, labels in plantvillage_dataloader:
   print(images.shape, labels.shape)
 ```
 
+As a solution, you will have to create a publicly accessible repository, with an implementation of a custom `PlantVillageDataset` class which is derived from
+the PyTorch `Dataset` class.
+You also should include a section in the `README.md` on the example usage of this class with `PyTorch` `DataLoader` to load the data from the folder structure in which the images are provided.
+Then you can send a pull request by including a link to your repository in the section below.
+
 # Submitted Solutions
 * `Link to your solution here`
