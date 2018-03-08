@@ -1,5 +1,7 @@
 # cnn-plantvillage
 
+![plantvillage](images/plantvillage.jpg)
+
 The task is to train a Deep Convolutional Neural Network to learn to differentiate between
 `38` different classes of diseased plant leaves. This is a standard Image Classification problem,
 and you can find numerous resources on getting started easily on Image Classification on your own dataset.
