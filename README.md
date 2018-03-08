@@ -9,7 +9,7 @@
   * **Skills Required :** `python`, `pytorch`
 * ![](https://img.shields.io/badge/difficulty-hard-red.svg) [Using Generative Adversarial Networks for generating samples from the mini-plantvillage dataset](tasks/gan-mini-plantvillage.md)
   * **Skills Required :** `python`, `pytorch` / `tensorflow`
-* ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) [Implement Artistic Style Transfer in PyTorch.](neural-style-transfer.md)
+* ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) [Implement Neural Style Transfer in PyTorch.](tasks/neural-style-transfer.md)
   * **Skills Required :** `python`, `pytorch`
 
 ## Data Visualisation
