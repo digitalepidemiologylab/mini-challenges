@@ -17,4 +17,4 @@ Please include a description of the problem, your approach, the results (loss+ac
 Then you can send a pull request by including a link to your repository in the section below.
 
 # Submitted Solutions
-* `Link to your publicly accessible github repository with a solution`
+* `Link to your solution here`
