@@ -9,6 +9,8 @@
   * **Skills Required :** `python`, `pytorch` / `tensorflow`
 * ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Implement `Grad-Cam` for the plantvillage-dataset.
   * **Skills Required :** `python`, `pytorch` / `tensorflow`
+* ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Implement Artistic Style Transfer in PyTorch.
+  * **Skills Required :** `python`, `pytorch`
 
 ## Data Visualisation
 * ![](https://img.shields.io/badge/difficulty-medium-yellow.svg) Visualisation of user interactions in a crowdAI challenge using Plotly
