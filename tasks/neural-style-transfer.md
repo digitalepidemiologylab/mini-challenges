@@ -8,7 +8,8 @@ In this task you are supposed to implement [Neural Style Transfer](https://arxiv
 [Here](http://pytorch.org/tutorials/advanced/neural_style_tutorial.html) is a great tutorial on how to get started on Neural Style Transfer.
 
 You can follow the tutorial, implement the described Neural Style Transfer approach.
-Then you can create a publicly accessible GitHub repository with your code, and a README describing the whole approach.
+
+As a solution, you will have to create a repository on [gitlab.crowdai.org](https://gitlab.crowdai.org), with your code, and a README describing the whole approach.
 Please do remember to include samples of generated images in the README of your repository.
 
 Then you can send a pull request by including a link to your repository in the section below.
