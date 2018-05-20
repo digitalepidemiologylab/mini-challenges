@@ -18,7 +18,7 @@ To help you quickly get started on Generative Adversarial Networks, here are som
 * https://wiseodd.github.io/techblog/2017/01/20/gan-pytorch/
 * https://github.com/znxlwm/pytorch-generative-model-collections
 
-As a solution, you will have to create a publicly accessible repository, with an implementation and description of your approach.
+As a solution, you will have to create a repository on [gitlab.crowdai.org](https://gitlab.crowdai.org), with an implementation and description of your approach.
 **You should also include a link to some generated samples in the README.md of you repository.**
 
 Then you can send a pull request by including a link to your repository in the section below.
